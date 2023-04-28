@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_t_bvlad16051997/xen_tech_sup_2"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.50
+			"texturescrollangle" 180.00
+		}
+	}
+}

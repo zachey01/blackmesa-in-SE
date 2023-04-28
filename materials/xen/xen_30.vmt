@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_30"
+	"$bumpmap" "xen/xen_30_n"
+	"$surfaceprop" "AlienFlesh"
+	"$envmaptint" "[ 1.8 1.8 1.8 ]"
+	"$envmap" "cubemaps/cubemap_cave01"
+	"$alphatest" "1"
+	"$alphatestreference" .5
+	"$AllowAlphaToCoverage" 1
+}

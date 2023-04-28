@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "xen/xen_t_bvlad16051997/xen_2"
+	"$basetexture2" "xen/xen_t_bvlad16051997/xen_3"
+	"%tooltexture" "xen/xen_t_bvlad16051997/xen_2"
+	"$bumpmap" "xen/xen_t_bvlad16051997/xen_2_normal"
+	"$bumpmap2" "xen/xen_t_bvlad16051997/xen_3_normal"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Concrete"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .72 .72 .72 ]"
+//	"$fresnelreflection" ".3"
+}
+

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_tech_sup"
+	"$bumpmap" "xen/xen_tech_sup_normal"
+	"$surfaceprop" "MetalPanel"
+	"$detail" "detail/bm_concrete_detail_04"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .72 .72 .72 ]"
+}

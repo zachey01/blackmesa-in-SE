@@ -1,0 +1,20 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "xen/xen_2"
+	"$basetexture2" "xen/xen_3"
+	"%tooltexture" "xen/xen_2"
+	"$bumpmap" "xen/xen_2_normal"
+	"$bumpmap2" "xen/xen_3_normal"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Concrete"
+	"$envmap" "cubemaps/cubemap_xen"
+	"$envmaptint" "[ 0.01 0.05 0.22 ]"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" .7
+//	"$envmaptint" "[ .72 .72 .72 ]"
+
+
+}
+

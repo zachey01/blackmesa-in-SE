@@ -1,0 +1,25 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_tech_sup_2"
+	"$bumpmap" "xen/xen_tech_sup_2_normal"
+	"$envmap" "cubemaps/cubemap_cave01"
+	"$normalmapalphaenvmapmask" 1
+	"$envmaptint" "[.4 .5 .5]"
+	"$nodecal"	"1"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" 0.51
+			"texturescrollangle" 180.00
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar"	"$bumptransform"
+			"texturescrollrate" 0.51
+			"texturescrollangle" 180.00
+		}
+
+	}
+}

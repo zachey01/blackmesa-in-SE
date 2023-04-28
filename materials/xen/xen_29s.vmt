@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_29"
+	"$surfaceprop" "Concrete"
+	"$seamless_scale" 0.015
+}

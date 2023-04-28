@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_2"
+	"$bumpmap" "xen/xen_2_normal"
+	"$surfaceprop" "Concrete"
+	"$detail" "detail/bm_concrete_detail_01b"
+	"$seamless_scale" 0.0025
+	"$envmaptint" "[ 0.01 0.05 0.22 ]"
+	"$envmap" "cubemaps/cubemap_xen"
+}

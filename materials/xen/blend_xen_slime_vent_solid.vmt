@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "xen/xen_slime2"
+	"$basetexture2" "metal/cel_metal_c2a4_ductdirty"
+
+	"$bumpmap"	"xen/xen_slime2_nm"
+	"$bumpmap2" "Metal/cel_metal_c2a4_ductdirty_normal"
+
+ 	"$basetexturetransform" "center .5 .5 scale 2 2 rotate 90  translate 0 0"
+
+	"%tooltexture" "xen/xen_slime"
+	"$surfaceprop" "flesh"
+	"$surfaceprop2" "metal"
+	"%keywords" "bms,xen"
+
+	"$blendmodulatetexture" 	"xen/blend/xen_modulate_001"
+}

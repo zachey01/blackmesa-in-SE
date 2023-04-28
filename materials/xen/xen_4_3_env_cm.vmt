@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "xen/xen_3_alpha"
+	"$basetexture2" "xen/xen_4"
+	"$bumpmap" "xen/xen_3_normal"
+	"$bumpmap2" "xen/xen_4_normal"
+	"$surfaceprop" "Concrete"
+	"$surfaceprop2" "Concrete"
+	"$basealphaenvmapmask" "1"
+	"$envmaptint" "[ .1 1.0 1.6 ]"
+	"$envmap" "cubemaps/cubemap_xen"
+
+	"$detail" "detail/xen_19"
+	"$detailscale" "0.2"
+	"$detailblendfactor" -0.85
+	"$detailblendmode" 0
+}

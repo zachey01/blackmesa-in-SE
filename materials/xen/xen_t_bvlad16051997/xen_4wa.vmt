@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_t_bvlad16051997/xen_4wa"
+	"$bumpmap" "xen/xen_t_bvlad16051997/xen_4wa_normal"
+	"$surfaceprop" "Concrete"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$basealphaenvmapmask" "0"
+	"$envmaptint" "[.1 .1 .1]"
+}

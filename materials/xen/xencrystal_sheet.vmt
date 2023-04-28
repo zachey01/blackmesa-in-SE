@@ -1,0 +1,30 @@
+"Refract"
+{
+ 	"$refractamount" ".009"
+	"$REFRACTTINT" "{254 220 0}"
+	"$dudvmap" "xen/xencrystal_dudv"
+	"$normalmap" "xen/xencrystal_normal"
+ 	"$surfaceprop" "glass"
+	"$bumpframe" "0"
+	"$envmap" "cubemaps/cubemap_ycrystal01"
+	"$envmapcontrast" "-10"
+	"$envmapsaturation" "[1 1 1]"
+	"$envmaptint" "[7 6 1]"
+
+	"$refracttinttexture" "models/shadertest/shieldtint0"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$REFRACTTINTTEXTURE"
+			"animatedtextureframenumvar" "$REFRACTTINTTEXTUREFRAME"
+			"animatedtextureframerate" 12.00
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .002
+			"texturescrollangle" 90.00
+		}
+	}
+}

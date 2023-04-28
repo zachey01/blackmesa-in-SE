@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_30brd"
+	"$basetexture2" "xen/xen_4wa"
+	"$bumpmap" "xen/xen_30brd_n"
+	"$bumpmap2" "xen/xen_4wa_normal"
+	"$surfaceprop" "Dirt"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$basealphaenvmapmask" "0"
+	"$envmaptint" "[.1 .1 .1]"
+	"$nodecal" 1
+}

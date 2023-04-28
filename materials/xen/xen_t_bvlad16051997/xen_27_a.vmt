@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_t_bvlad16051997/xen_27_a"
+	"$bumpmap" "xen/xen_t_bvlad16051997/xen_27_a_normal"
+	"$surfaceprop" "Dirt"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" .7
+	"$envmaptint" "[ .72 .72 .72 ]"
+//	"$fresnelreflection" ".3"
+}

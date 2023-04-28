@@ -1,0 +1,26 @@
+"Refract"
+{
+ 	"$refractamount" ".05"
+// 	"$bluramount" "1"
+	"$REFRACTTINT" "{0 251 254}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "xen/xen_t_bvlad16051997/xencrystal_dudv"
+ 	"$normalmap" "xen/xen_t_bvlad16051997/xencrystal_normal"
+ 	"$surfaceprop" "glass"
+	"$bumpframe" "0"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "[1 1 1]"
+	"$envmaptint" "[1 1 .1]"
+
+	"$refracttinttexture" "models/shadertest/shieldtint0"
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$REFRACTTINTTEXTURE"
+			"animatedtextureframenumvar" "$REFRACTTINTTEXTUREFRAME"
+			"animatedtextureframerate" 17.00
+		}
+	}
+}

@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "xen/xen_13a"
+	"$basetexture2" "xen/xen_4"
+	"$bumpmap" "xen/xen_4_normal"
+	"$surfaceprop" "concrete_push"
+	"$detail" "detail/bm_concrete_detail_05"
+}

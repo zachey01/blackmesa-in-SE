@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/!slime_overlayred"
+	"$detail" "detail/bm_concrete_detail_01b"
+	"$surfaceprop" "Gravel"
+}

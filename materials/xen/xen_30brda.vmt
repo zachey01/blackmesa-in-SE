@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_30brda"
+	"$surfaceprop" "Metal"
+	"$detail" "detail/xen"
+	"$detailscale" "0.5"
+	"$detailblendfactor" 0.7
+	"$detailblendmode" 0
+}

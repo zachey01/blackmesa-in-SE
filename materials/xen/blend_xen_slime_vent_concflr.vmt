@@ -1,0 +1,17 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "xen/xen_slime2"
+	"$basetexture2" "concrete/concrete_floor_tnnlflr7d"
+
+	"$bumpmap"	"xen/xen_slime2_nm"
+	"$bumpmap2" "concrete/concrete_floor_tnnlflr7d"
+
+ 	"$basetexturetransform" "center .5 .5 scale 2 2 rotate 90  translate 0 0"
+
+	"%tooltexture" "xen/xen_slime"
+	"$surfaceprop" "flesh"
+	"$surfaceprop2" "concrete"
+	"%keywords" "bms,xen"
+
+	"$blendmodulatetexture" 	"xen/blend/xen_modulate_001"
+}

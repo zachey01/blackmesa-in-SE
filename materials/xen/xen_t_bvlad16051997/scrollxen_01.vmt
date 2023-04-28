@@ -1,0 +1,21 @@
+"Refract"
+{
+	"$bluramount" 1
+ 	"$refractamount" ".25"
+	"$REFRACTTINT" "{0 251 254}"
+	"$scale" "[1 1]"
+ 	"$dudvmap" "xen/xen_t_bvlad16051997/scrollxen_dudv"
+	"$normalmap" "xen/xen_t_bvlad16051997/scrollxen_normal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .4 .4]"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .6
+			"texturescrollangle" 90
+		}
+	}
+
+}

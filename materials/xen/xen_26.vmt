@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen_26"
+	"$surfaceprop" "Dirt"
+	"$bumpmap" "xen/xen_26_normal"
+	"$envmaptint" "[ 0.1 0.1 0.1 ]"
+
+	"$envmap" "cubemaps/cubemap_nih"
+}

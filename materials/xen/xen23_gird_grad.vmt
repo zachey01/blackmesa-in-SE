@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen23_gird_grad"
+	"$bumpmap" "xen/xen23_gird_normal"
+	"$surfaceprop" "Metal"
+}

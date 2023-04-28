@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture"	"xen\polyp_root"
+	"$surfaceprop"  "slime"
+	//"$bumpmap"	"xen\polyp_root_nm"
+	//"$envmap" "env_cubemap"
+	//"$envmaptint" "[.3 .3 .3]"
+	//"$normalmapalphaenvmapmask" 1	
+	"$translucent" 1
+	"$decal" 1
+	"$decalscale"0.25
+
+}

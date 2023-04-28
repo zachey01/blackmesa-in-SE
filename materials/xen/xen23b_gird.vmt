@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "xen/xen23b_gird_alpha"
+	"$bumpmap" "xen/xen23b_normal"
+	"$basealphaenvmapmask" "1"
+	"$surfaceprop" "metal"
+	"$envmaptint" "[ 0.3 0.3 0.3 ]"
+	"$envmap" "cubemaps/cubemap_gird"
+}

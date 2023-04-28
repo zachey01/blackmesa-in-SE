@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "xen/xen_t_bvlad16051997/xen_tech_lite_2"
+	"$surfaceprop" "Glass"
+}

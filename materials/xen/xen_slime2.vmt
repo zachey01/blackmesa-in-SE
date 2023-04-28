@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{	
+	"$basetexture" 			"xen/xen_slime2"
+	"$surfaceprop"  "slime"
+	"$bumpmap"	"xen\xen_slime2_nm"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.3 .3 .3]"
+	"$normalmapalphaenvmapmask" 1		
+
+}
